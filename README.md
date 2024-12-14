@@ -1,4 +1,4 @@
-# networking-computer-laboratory
+Networking Computer Laboratory
 ---
-# Junior Secondary School Computer Laboratory
+# Installing Lan Cable for a Junior Secondary School Computer Laboratory
 ### Project Overview
