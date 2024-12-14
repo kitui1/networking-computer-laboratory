@@ -1,2 +1,2 @@
 # networking-computer-laboratory
-##junior secondary school computer laboratory
+#Junior secondary school computer laboratory
