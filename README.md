@@ -1,4 +1,4 @@
 # networking-computer-laboratory
 ---
-#Junior secondary school computer laboratory
-
+# Junior Secondary School Computer Laboratory
+### Project Overview
